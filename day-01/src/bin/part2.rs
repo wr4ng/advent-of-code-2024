@@ -2,11 +2,11 @@ use std::collections::HashMap;
 
 fn main() {
     let input = include_str!("./input.txt");
-    let output = part1(input);
+    let output = part2(input);
     dbg!(output);
 }
 
-fn part1(input: &str) -> String {
+fn part2(input: &str) -> String {
     let mut lefts = vec![];
     let mut rights = HashMap::new();
 
@@ -37,7 +37,7 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let result = part1(
+        let result = part2(
             "3   4
 4   3
 2   5
