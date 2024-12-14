@@ -9,3 +9,4 @@ Language: Rust
 | 3   |      X |      X |
 | 4   |      X |      X |
 | 5   |      X |      X |
+| 6   |      X |      X |
