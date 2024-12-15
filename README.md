@@ -11,3 +11,4 @@ Language: Rust
 | 5   |      X |      X |
 | 6   |      X |      X |
 | 7   |      X |      X |
+| 8   |      X |      X |
